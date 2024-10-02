@@ -1,0 +1,30 @@
+
+[
+    ///////////////////////////////////////// Pantheon /////////////////////////////////////////
+    {
+        "name": "Ancestor Worship",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] [in this city]"]
+    },
+    ///////////////////////////////////////// Follower /////////////////////////////////////////
+    {
+        "name": "Asceticism",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] [in this city] <in cities with at least [3] [Followers of this Religion]>"]
+    },
+        
+    ///////////////////////////////////////// Founder //////////////////////////////////////////
+
+    {
+        "name": "Wheel of Worlds",
+        "type": "Founder",
+        "uniques": ["[+10 Gold]"]
+    },
+    ////////////////////////////////////// Enhancer ///////////////////////////////////////
+  
+    {
+        "name": "Call of War",
+        "type": "Enhancer",
+        "uniques": ["Gain [0]-[50] [Faith] <upon declaring war with a major Civilization>","Gain [20]-[100] [Culture] <upon declaring war with a major Civilization>"]
+    },
+]

@@ -1,0 +1,26 @@
+[	
+	// Bonus resources
+	{
+		"name": "Wheat",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland"],
+		"food": 1,
+		"improvedBy": ["Farm"],
+		"improvementStats": {"food": 1}
+	},
+
+	//Strategic resources
+	{
+		"name": "Beep Boop",
+		"resourceType": "Strategic",
+		"uniques": ["Doesn't generate naturally","Excluded from map editor","Cannot be traded","Not shown on world screen"]
+	},
+	
+	// Luxury resources
+	{
+		"name": "NFT",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["Can only be created by Mercantile City-States","Doesn't generate naturally","Excluded from map editor"]
+	},
+]

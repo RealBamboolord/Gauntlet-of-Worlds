@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Fascism",
+		"era": "Dawn of Worlds",
+		"uniques": ["[+25]% Strength"],
+		"policies": [
+			{
+				"name": "Suppression",
+				"uniques": ["[+25]% XP gained from combat","[+1] Movement"],
+				"row": 1,
+				"column": 1
+			},
+			{
+				"name": "Fascism Complete",
+				"uniques": ["Comment [Yay you did it]"]
+			}
+		]
+	},
+]

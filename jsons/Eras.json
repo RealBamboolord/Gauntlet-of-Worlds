@@ -1,0 +1,15 @@
+   [
+    {
+        "name": "Dawn of Worlds",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Scout",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 5,
+        "startPercent": 0,
+        "iconRGB": [255, 87, 35]
+    },
+]

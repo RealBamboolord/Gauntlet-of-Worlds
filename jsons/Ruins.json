@@ -1,0 +1,8 @@
+[ 
+	{
+		"name": "discover fascism",
+		"notification": "Fascism is closer now! (+1 culture)",
+		"uniques": ["Gain [1] [Culture]"],
+		 "color": "#cf8ff7"
+	},
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Dawn of Worlds",
+		"techCost": 40,
+		"buildingCost": 40,
+		"techs": [
+			{
+				"name": "Starting Tech",
+				"row": 1,
+				"quote": "'Bro, you are starting with this. How tf are you even reading this?' - Me, probably",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Dawn of Worlds",
+		"techCost": 420, 
+		"buildingCost": 69,
+		"wonderCost": 1234567890, //skibidi
+		"techs": [	
+			{
+				"name": "Middle Tech",
+				"row": 2,
+				"prerequisites": ["Starting Tech"],
+				"uniques": ["Comment [Not Starting tech]"],
+				"quote": "'I think we agree, the end is near.' - George W. Bush, probably"
+			},
+		],
+	},
+	{
+		"columnNumber": 2,
+		"era": "Dawn of Worlds",
+		"techCost": 420, 
+		"buildingCost": 69,
+		"wonderCost": 1234567890, //skibidi
+		"techs": [	
+			{
+				"name": "Future Tech",
+				"row": 3,
+				"prerequisites": ["Middle Tech"],
+				"uniques": ["Comment [Not Starting tech]","Can be continually researched"],
+				"quote": "'I think we agree, the end is near.' - George W. Bush, probably"
+			},
+		],
+	},
+					
+]

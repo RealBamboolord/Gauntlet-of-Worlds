@@ -1,0 +1,73 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "Bamboo Kingdom",
+		"leaderName": "Bamboolord",
+		"adjective": ["Bamboofolk"],
+		"style": "Bamboo",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hi Bamboolord",
+		"startIntroPart2": "Can you build a civilization that can stend the test of time (and Space and a thousand worlds)?",
+		
+		"declaringWar": "Only defensive measurements, nothing to worry about (at least for me and everyone else except for your people)",
+		"attacked": "The Bamboo Council does not approve of this. We will send countless warriors through every portal to put an end to this.",
+		"defeated": "You did what I had planned to do with you and your people. Congrats!",
+		"introduction": "Hi, I am Bamboolord, the founder of this modding project",
+		
+		"neutralHello": "Hi :)",
+		"hateHello": "Bye >:(",
+		
+		"tradeRequest": "Trade offer straight from my PC or mobile device playing Unciv, probably a deal that benefits me more than you. How is that for breaking the fourth wall?",
+				
+		"outerColor": [87, 233, 108],
+		"innerColor": [69, 114, 48],
+		"uniqueName": "Bamboo Lords",
+		"uniqueText": "Bamboolord does not tell his secrets. At least not now. You have to wait until tomorrow. Or probably the day after. All of this because I am lazy"
+		"uniques": ["[+5 Science, +2 Food, +5 Culture] [in capital]"],
+		"cities": ["Bamboo Keep", "Kamp Forress", "Port Bamboo", "Portal des Bambus", "Neue Welt", "Wheel of Worlds", "Rad der Zeit", "Running out of ideas what to put here", "New Running out of ideas what to put here", "New New Running out of ideas what to put here", "New New New Running out of ideas what to put here"]
+	},
+	{
+		"name": "Penguin Nation",
+		"leaderName": "EmperorPenguin",
+		"adjective": ["Penguin"],
+		"style": "Penguin",
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Penguin",
+		"startIntroPart2": "Penguin",
+		
+		"declaringWar": "This text has no effect in game anyways",
+		"attacked": "This text has no effect in game anyways",
+		"defeated": "This text has no effect in game anyways",
+		"introduction": "This text has no effect in game anyways",
+		
+		"neutralHello": "This text has no effect in game anyways",
+		"hateHello": "This text has no effect in game anyways",
+		
+		"tradeRequest": "This text has no effect in game anyways",
+				
+		"outerColor": [30, 71, 133],
+		"innerColor": [255, 127, 0],
+		"uniqueName": "Skill",
+		"uniqueText": "This UA doesn't have any in game effects, and so don't the rest of this nation's uniques. Still enough for the dutch Penguin to defeat you in multiplayer"
+		"uniques": ["Comment [Does anyone actually read this?]"],
+		"cities": ["Capital in good location","Chariot Archer Manufactury","World Wonder Factory","Settler Spam starting","Settler Spam continuing","Settler Spam still going on","Somehow not running out of happiness","Somehow already better than *your* capital","Btw, still spamming Settlers","How to further describe Settler spam?","I actually don't know","How is he doing this","20 turns away from defeating you","Just did and tells you he's a bad player"]
+	}
+
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185, 12, 12],
+		"uniques": ["Can only heal by pillaging", "Comment [Not nice people :(]"]
+	}
+
+]
